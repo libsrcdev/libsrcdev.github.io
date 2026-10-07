@@ -1,0 +1,13 @@
+{
+  "name": "libsrc.dev",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "eleventy --serve",
+    "build": "eleventy",
+    "prebuild": "node -e \"require('node:fs').rmSync('_site', {recursive:true, force:true})\""
+  },
+  "engines": { "node": ">=22" },
+  "devDependencies": { "@11ty/eleventy": "^3.1.2" }
+}

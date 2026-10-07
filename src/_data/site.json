@@ -1,0 +1,16 @@
+{
+  "name": "So[u]rce[ry] Library",
+  "url": "https://libsrc.dev",
+  "github": "https://github.com/libsrcdev",
+  "email": "contact@libsrc.dev",
+  "linkedin": "https://www.linkedin.com/in/alexgccp/",
+  "description": "So[u]rce[ry] Library — open-source packages, side projects, and a little black magic. Flutter, Dart, and tools for the web.",
+  "projects": [
+    { "name": "shared-storage", "category": "Flutter · Android", "description": "Work with Android external storage from Flutter.", "url": "https://github.com/libsrcdev/shared-storage" },
+    { "name": "device-packages", "category": "Flutter · Android", "description": "Get the list of installed applications on Android.", "url": "https://github.com/libsrcdev/device-packages" },
+    { "name": "pixelarticons", "category": "Flutter · Icons", "description": "Pixel art icons made simple for Flutter.", "url": "https://github.com/libsrcdev/pixelarticons" },
+    { "name": "ndjson.dart", "category": "Dart · Data", "description": "A small library for parsing newline-delimited JSON.", "url": "https://github.com/libsrcdev/ndjson.dart" },
+    { "name": "gatsby-remark-shiki", "category": "Gatsby · Syntax", "description": "Code highlighting with Shiki for Gatsby's Markdown pipeline.", "url": "https://github.com/libsrcdev/gatsby-remark-shiki" },
+    { "name": "commit-message-vscode-codex", "category": "VS Code · Tooling", "description": "Generate commit messages using your existing Codex setup.", "url": "https://github.com/libsrcdev/commit-message-vscode-codex" }
+  ]
+}
