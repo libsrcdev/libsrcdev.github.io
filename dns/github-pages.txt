@@ -1,0 +1,5 @@
+; GitHub Pages apex records for libsrc.dev.
+libsrc.dev. 300 IN A 185.199.108.153
+libsrc.dev. 300 IN A 185.199.109.153
+libsrc.dev. 300 IN A 185.199.110.153
+libsrc.dev. 300 IN A 185.199.111.153
