@@ -4,7 +4,7 @@
   "github": "https://github.com/libsrcdev",
   "email": "contact@libsrc.dev",
   "linkedin": "https://www.linkedin.com/in/alexgccp/",
-  "description": "So[u]rce[ry] Library — open-source packages, side projects, and a little black magic. Flutter, Dart, and tools for the web.",
+  "description": "My misc toolbox, a mix of libs, micro-services, APIs, templates & utils.",
   "projects": [
     { "name": "shared-storage", "category": "Flutter · Android", "description": "Work with Android external storage from Flutter.", "url": "https://github.com/libsrcdev/shared-storage" },
     { "name": "device-packages", "category": "Flutter · Android", "description": "Get the list of installed applications on Android.", "url": "https://github.com/libsrcdev/device-packages" },
