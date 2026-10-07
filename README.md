@@ -15,7 +15,7 @@ Open the localhost URL printed by Eleventy. `npm run build` generates the deploy
 
 ### Typography
 
-The local preview uses TT Firs Neue Regular and Medium from the supplied trial archive. These files live in ignored `.local/fonts/` and are copied only in Eleventy's serve mode. The included TypeType trial license permits evaluation but restricts public webpages. Production builds clean `_site/` first to prevent preview fonts from being deployed, and use the system sans-serif fallback. For public TT Firs Neue use, replace the trial with licensed webfont files and enable their font-face rules in the production stylesheet.
+Share Tech is the main font, self-hosted in `src/assets/fonts/` for preview and production. Its SIL Open Font License is included. The same font is used across headings, body copy, labels, and links, with system sans-serif fallbacks.
 
 The online dependency audit currently reports advisories in Eleventy's development dependencies, with no suitable stable upgrade offered. The deployed output contains only static files; keep the development server local and use trusted build inputs.
 
